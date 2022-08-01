@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/657819625/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/657819625/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-797879939/android.google_maps_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-797879939/android.google_maps_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1162144365/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1162144365/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2044343657/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-2044343657/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/266380512/android.path_provider_ios.iml" filepath="$PROJECT_DIR$/.idea/modules/266380512/android.path_provider_ios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/434563781/android.path_provider_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/434563781/android.path_provider_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1407403965/android.path_provider_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-1407403965/android.path_provider_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1698400979/android.path_provider_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/1698400979/android.path_provider_windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1887702153/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-1887702153/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1473609287/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/1473609287/android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1585901309/android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/1585901309/android.url_launcher_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1716762655/android.url_launcher_ios.iml" filepath="$PROJECT_DIR$/.idea/modules/1716762655/android.url_launcher_ios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1951964167/android.url_launcher_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/-1951964167/android.url_launcher_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1295915976/android.url_launcher_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-1295915976/android.url_launcher_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2017368481/android.url_launcher_web.iml" filepath="$PROJECT_DIR$/.idea/modules/2017368481/android.url_launcher_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-284263288/android.url_launcher_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/-284263288/android.url_launcher_windows.iml" />
+    </modules>
+  </component>
+</project>
