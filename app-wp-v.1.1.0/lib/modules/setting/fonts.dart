@@ -1,1 +1,0 @@
-const GoloFont = "Jost";
