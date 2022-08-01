@@ -6,3 +6,7 @@ workflows:
         script: ./gradlew assembleRelease
     artifacts:
       - app/build/outputs/**/**/*.apk
+
+    environment:
+      flutter: beta
+
